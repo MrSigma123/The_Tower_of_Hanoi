@@ -1,0 +1,8 @@
+/*
+This program will visualize consol version of the Tower of Hanoi
+The rings will be displayed as the asterisks patterns. So the tower
+will be represented as two dimensional geometric figure.
+The tower manuvering will be done by entering the source and destination
+ring number. By this way the specific ring will be transfered to the
+desired destination.
+*/
