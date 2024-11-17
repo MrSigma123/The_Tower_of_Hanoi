@@ -6,3 +6,18 @@ The tower manuvering will be done by entering the source and destination
 ring number. By this way the specific ring will be transfered to the
 desired destination.
 */
+
+#include <stdio.h>
+void menu(void);
+int main(void)
+{
+  menu();
+  return 0;
+}
+void menu(void)
+{
+  printf("Choose the desired action:\n");
+  /*
+    create the menu options to be displayed and define their functions
+  */
+}
