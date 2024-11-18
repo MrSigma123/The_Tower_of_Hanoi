@@ -20,4 +20,6 @@ void menu(void)
   /*
     create the menu options to be displayed and define their functions
   */
+
+  // TODO: design the hanoi graphic representation
 }
