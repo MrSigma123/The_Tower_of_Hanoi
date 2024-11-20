@@ -23,4 +23,5 @@ void menu(void)
 
   // TODO: design the hanoi graphic representation
   // TODO: design an algorithm which enables input of the Hanoi size
+  // TODO: design an algorithm to displapy the hanoi states
 }
