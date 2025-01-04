@@ -1,0 +1,16 @@
+The project of the tower will be the star pattern with different colors per
+layer. The colors will be implemented by using special ASCII codes. The colors
+will be cycled in certain order after specific value to make the tower look
+more appealing and clearer.
+
+Below is the example of the tower star pattern:
+ 
+        *
+       ***
+      *****
+     *******
+    *********
+   ***********
+  *************
+ ***************
+*****************
